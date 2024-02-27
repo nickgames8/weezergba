@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>maladroit</title>
+    <link rel="stylesheet" href="assets/maladroit.css">
+    <link rel="icon" href="assets/favicon.png">
+</head>
+<body>
+    <h1>weezer gba</h1>
+    <ul>
+        <ul><a href="roms/maladroit/dopenose.gba"><txt>dope nose</txt></a></ul>
+        <ul><a href="roms/maladroit/keepfishin.gba"><txt>keep fishin'</txt></a></ul>
+        <ul><a href="roms/maladroit/slob.gba"><txt>slob</txt></a></ul>
+    </ul>
+	<h2><a href="green.html">last page</a></h2>
+</body>
+</html>

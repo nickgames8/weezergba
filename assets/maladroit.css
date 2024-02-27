@@ -1,0 +1,16 @@
+@font-face {font-family: "Century Gothic";
+    src: url("GOTHIC.woff2") format("woff2");}
+
+html{font-family: "Century Gothic";
+    background-color: #e3d5bb;}
+
+h1{font-size: 60px;}
+
+txt{font-weight: bold; font-size: 18px;}
+a:link{color: #b4a679; font-weight: bold;}
+a:visited{color:#2e2e2e}
+ul{list-style-type: number; font-size: 12px;}
+
+.weezer{position: fixed;
+    bottom: 0px;
+    right: 0px;}
