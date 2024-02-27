@@ -1,0 +1,24 @@
+@font-face {font-family: "Century Gothic";
+    src: url("GOTHIC.woff2") format("woff2");}
+
+html{font-family: "Century Gothic";
+    background-color: #BECC41;
+    text-align: center;
+	color: white}
+
+#weezerlogo{position: relative;
+    top: -40px;}
+#tracks{position: relative;
+    top: -50px;
+    left: -16px;}
+
+h1{font-size: 60px;}
+
+ul{font-weight: bold; font-size: 18px;}
+
+a:link{color: white; font-weight: bold;}
+a:visited{color: white}
+
+.weezer{position: fixed;
+    bottom: 0px;
+    right: 0px;}
