@@ -9,6 +9,7 @@ html{font-family: "Century Gothic";
 #weezerlogo{position: relative;
     top: -40px;}
 #tracks{position: relative;
+    list-style-type: none;
     top: -50px;
     left: -16px;}
 
