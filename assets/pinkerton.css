@@ -1,6 +1,6 @@
 html{font-family: Arial, Helvetica, sans-serif;
     background-color: #131507;
-    background-image: url(pinkerton/background.png);
+    background-image: url("pinkerton/background.png");
     background-size: cover;
     background-repeat: none;}
 
